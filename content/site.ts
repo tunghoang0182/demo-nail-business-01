@@ -21,7 +21,7 @@ export const site = {
   },
   about: {
     eyebrow: "About Us",
-    title: "A calm nail studio for polished everyday beauty Test and deploy",
+    title: "A calm nail studio for polished everyday beauty Test and deploy Cloud",
     body:
       "Our studio is designed for relaxed appointments, careful detail work, and a clean beauty experience from the moment you arrive. We focus on healthy nail care, soft finishes, and timeless styles that feel effortless.",
     secondary:
